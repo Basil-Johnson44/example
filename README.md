@@ -1,0 +1,2 @@
+# example
+college(test)
